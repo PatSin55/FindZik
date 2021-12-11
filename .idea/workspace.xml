@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2299ca31-7498-4c11-92e3-1fd721193b88" name="Default Changelist" comment="" />
+    <list default="true" id="2299ca31-7498-4c11-92e3-1fd721193b88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/album.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/meanmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/lin(2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/album1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/album2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/music1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/music2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/music3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/music4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/musicbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/jquery-3.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,15 +63,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FindZik" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21zOHY2COMUb5AoLPCYS9jxAwZn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -57,6 +114,7 @@
       <workItem from="1638940366981" duration="356000" />
       <workItem from="1639081862607" duration="34000" />
       <workItem from="1639142266326" duration="319000" />
+      <workItem from="1639217187944" duration="1920000" />
     </task>
     <servers />
   </component>
@@ -68,10 +126,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
